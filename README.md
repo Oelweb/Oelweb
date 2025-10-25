@@ -2,7 +2,7 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pXX8ZZ29Fs) 
+[![Discord](https://discord.gg/hUVVKxxwxg) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Oelweb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
