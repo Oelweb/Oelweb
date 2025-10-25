@@ -1,5 +1,4 @@
 # 💫 About Me:
-🧷 Web Developer <br>💻 My Website: https://oelweb.vercel.app/<br><br>
 
 
 ## 🌐 Socials:
