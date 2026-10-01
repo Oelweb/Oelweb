@@ -2,7 +2,7 @@
 
 # Hey, ich bin Leo 👋
 
-**Vibecoder** · Webentwicklung · Self-Hosting · 🇩🇪
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=420&lines=Vibecoder;Webentwicklung;Self-Hosting;Made+in+Germany+%F0%9F%87%A9%F0%9F%87%AA" />
 
 <img src="https://skillicons.dev/icons?i=java,html,css,js,linux,nginx,docker,git,vscode&theme=dark" />
 
